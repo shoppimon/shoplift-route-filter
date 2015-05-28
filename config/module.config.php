@@ -4,7 +4,6 @@
  * Shoplift\RouteFilter - Easy per-route input filtering for ZF2 / Apigility apps
  *
  * @copyright (c) 2015 Shoppimon LTD
- * @author    shahar
  */
 
 return array(
