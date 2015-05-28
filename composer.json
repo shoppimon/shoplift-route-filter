@@ -1,0 +1,35 @@
+{
+    "name": "shoppimon/shoplift-route-filter",
+    "description": "Simple config-based route / query parameter filtering for ZF2 / Apigility",
+    "license": "MIT",
+    "keywords": ["input", "filter", "zf2", "apigility", "query", "parameters", "route"],
+    "homepage": "https://www.shoppimon.com/",
+    "authors": [
+        {
+            "name": "Shahar Evron",
+            "email": "shahar.evron@gmail.com",
+            "homepage": "http://arr.gr/blog",
+            "role": "Developer"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Shoplift\\RouteFilter\\": "src/"
+        },
+        "classmap": [
+            "Module.php"
+        ]
+    },
+
+    "require": {
+        "php": ">=5.4",
+        "zendframework/zend-inputfilter": ">=2.4.0",
+        "zendframework/zend-servicemanager": ">=2.4.0",
+        "zfcampus/zf-api-problem": "1.*"
+    },
+
+    "require-dev": {
+        "phpunit/phpunit": "4.*"
+    }
+}
