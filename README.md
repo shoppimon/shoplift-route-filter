@@ -114,7 +114,7 @@ is similar to Apigility's included content validation feature: a
 
 License & Acknowledgement
 -------------------------
-ShopliftRouteFilter was created by the (Shoppimon)[https://www.shoppimon.com/]
+ShopliftRouteFilter was created by the [Shoppimon](https://www.shoppimon.com/)
 team and is released under the terms of the MIT license, as detailed in the
 enclosed LICENSE file.
 
